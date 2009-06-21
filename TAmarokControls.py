@@ -19,7 +19,9 @@
 #    ---
 #    Copyright (C) 2009, Thomas Eichinger <thomas.eichinger1@gmail.com>
 
-
+#
+# http://wiki.xmms2.xmms.se/wiki/MPRIS
+#
 
 import dbus
 
