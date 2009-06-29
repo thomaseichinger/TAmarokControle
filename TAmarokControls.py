@@ -137,6 +137,7 @@ class TAmarokControls( ):
 
 def main():
   amarok = TAmarokControls()
+  ## an example usage
   amarok.increaseVol()
 
 if __name__ == "__main__":
